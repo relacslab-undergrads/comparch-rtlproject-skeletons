@@ -1,0 +1,6 @@
+# RTL for RISC-based In-Order Pipeline
+
+The entire RTL is divided into four tasks for easy accessibility for newbies.
+Each task has its own testbench for quick verification. 
+There's no restriction running the RTL simulation, so you can use any platforms (Windows, Linux, IOS, etc.)
+
